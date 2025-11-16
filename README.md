@@ -268,7 +268,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Secudity** - Security + Solidity
 
 - Instagram: [@secudity](https://instagram.com/secudity)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@secudity](https://github.com/secuditylabs)
 
 ---
 
